@@ -1,5 +1,6 @@
 # Standard-Deviation
   * *We learned to display a average on the line graph*
+  * *It is used to display the deviated data*
   * *Then we learned about standard deviation. And saw the formula to calculate the standard deviation.*
   *![image](https://user-images.githubusercontent.com/74312429/130345085-a3e0609d-96b7-4664-842c-22d4efff7967.png)*
   * *Xi is the each value in the dataset.X -bar is the mean of the values.N is the number of values in a dataset.*
